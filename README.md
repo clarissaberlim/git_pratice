@@ -15,6 +15,12 @@ Right now I'm learning Python, C, C++ and services like Git and GitHub
 
 > It's been a challenge
 
+## Academic Background
+1. **UERJ**
+   *Bachelor* - Computer Science
+2. **UFRJ**
+   *Postgraduate* - Project Management
+
 ## Looking for
 1. Cool projects to do
 2. Job oportunities
