@@ -26,7 +26,9 @@ Right now I'm learning Python, C, C++ and services like Git and GitHub
 2. Job oportunities
 
 ## Contact Info
-I'll get back to this
++ clarissaberlim@gmail.com
++ @clarissaberlim
+
 
 > [!NOTE]
 > This is very cool!
